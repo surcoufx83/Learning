@@ -12,6 +12,9 @@ namespace Learning
 {
     public partial class Form1 : Form
     {
+
+        double pi = 3.1415;
+
         public Form1()
         {
             InitializeComponent();
